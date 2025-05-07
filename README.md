@@ -3,7 +3,4 @@
 - 🌱 I’m currently learning Javascript, Rust, and HTML/CSS
 - 😄 Pronouns: He/Him/His
 
-<!---
-TheBestWebsite/TheBestWebsite is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+The SHA256 hash of the name of the owner of this account, when first name comes before last name, the two are seperated by a space, and there are no characters before or after the name, is d63f7595f5dbc1c37fd06ad493c27ed6efc4be1bf955936ba58e3a5b0779be48. 
